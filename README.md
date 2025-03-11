@@ -1,5 +1,13 @@
 # LinkedIn Multi-Page Scraper Extension
 
+## 📝 Personal Experience
+
+I have tried numerous methods to scrape data from LinkedIn, but every time, my accounts ended up getting blocked. After spending a significant amount of time experimenting with different approaches, I came up with the idea of developing this Chrome extension.
+
+With this extension, I have successfully scraped data from **over 500,000 public accounts**, gathering millions of posts, comments, likes, and other engagement data. I ran this script continuously for **five days straight**, and it did not affect my account in any way.
+
+However, **please note that this tool is strictly designed for scraping publicly available LinkedIn data**. It is **not** intended for any **illegal activities, privacy violations, or unauthorized access**. **Always comply with LinkedIn’s policies and legal regulations** when using this tool.
+
 ## Overview
 
 This **Chrome Extension** automates collecting posts from multiple LinkedIn company pages. It:
