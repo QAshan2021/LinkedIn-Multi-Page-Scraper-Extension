@@ -1,0 +1,32 @@
+{
+  "name": "LinkedIn Multi-Page Scraper with Updated Chunk Download",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "Scrape LinkedIn pages from chunk.txt, confirm CSVs, and re-download an updated chunk file after each success.",
+
+  "permissions": [
+    "downloads",
+    "tabs",
+    "scripting",
+    "activeTab",
+    "storage"
+  ],
+
+  "action": {
+    "default_popup": "popup.html"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://www.linkedin.com/*"],
+      "js": ["contentScript.js"]
+    }
+  ],
+
+  "web_accessible_resources": [
+    {
+      "resources": ["chunk.txt"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}
