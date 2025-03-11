@@ -142,6 +142,13 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 This extension’s code is provided **as-is**, under no specific license or an [MIT License](https://choosealicense.com/licenses/mit/). Use responsibly!
 
 ---
+## 📞 Contact Me
+
+If you face any issues while using this tool or have any questions, feel free to reach out to me via email:
+
+📧 **ahsanullahqureshi2021@gmail.com**
+
+I will try my best to assist you as soon as possible. 🚀
 
 ## Final Words
 
